@@ -1,0 +1,40 @@
+8
+
+dir
+42
+http://as3corelib.googlecode.com/svn/trunk/src/com/adobe/net/proxies
+http://as3corelib.googlecode.com/svn
+
+
+
+2006-12-21T00:21:46.856265Z
+2
+darron.schall
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+374f7c76-8224-0410-aa2b-53cc4844e527
+
+RFC2817Socket.as
+file
+
+
+
+
+2007-11-25T09:39:22.000000Z
+5489ecad6ac7ddc5f3484e8387c44149
+2006-12-21T00:21:46.856265Z
+2
+darron.schall
+
